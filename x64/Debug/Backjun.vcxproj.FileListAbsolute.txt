@@ -1,2 +1,0 @@
-C:\Users\kimjunsoo\Desktop\Backjun\x64\Debug\Backjun.exe
-C:\Users\kimjunsoo\Desktop\Backjun\x64\Debug\Backjun.pdb
